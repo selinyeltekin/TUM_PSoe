@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Sinav1\Sinav1\bin\Debug\net5.0\Sinav1.exe
+C:\Users\USER\source\repos\Sinav1\Sinav1\bin\Debug\net5.0\Sinav1.deps.json
+C:\Users\USER\source\repos\Sinav1\Sinav1\bin\Debug\net5.0\Sinav1.runtimeconfig.json
+C:\Users\USER\source\repos\Sinav1\Sinav1\bin\Debug\net5.0\Sinav1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Sinav1\Sinav1\bin\Debug\net5.0\Sinav1.dll
+C:\Users\USER\source\repos\Sinav1\Sinav1\bin\Debug\net5.0\Sinav1.pdb
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.dll
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\refint\Sinav1.dll
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.pdb
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\Sinav1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Sinav1\Sinav1\obj\Debug\net5.0\ref\Sinav1.dll

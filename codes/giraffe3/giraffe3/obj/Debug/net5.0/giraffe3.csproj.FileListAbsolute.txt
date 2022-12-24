@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\giraffe3\giraffe3\bin\Debug\net5.0\giraffe3.exe
+C:\Users\USER\source\repos\giraffe3\giraffe3\bin\Debug\net5.0\giraffe3.deps.json
+C:\Users\USER\source\repos\giraffe3\giraffe3\bin\Debug\net5.0\giraffe3.runtimeconfig.json
+C:\Users\USER\source\repos\giraffe3\giraffe3\bin\Debug\net5.0\giraffe3.runtimeconfig.dev.json
+C:\Users\USER\source\repos\giraffe3\giraffe3\bin\Debug\net5.0\giraffe3.dll
+C:\Users\USER\source\repos\giraffe3\giraffe3\bin\Debug\net5.0\giraffe3.pdb
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.AssemblyInfo.cs
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.dll
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\refint\giraffe3.dll
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.pdb
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\giraffe3.genruntimeconfig.cache
+C:\Users\USER\source\repos\giraffe3\giraffe3\obj\Debug\net5.0\ref\giraffe3.dll

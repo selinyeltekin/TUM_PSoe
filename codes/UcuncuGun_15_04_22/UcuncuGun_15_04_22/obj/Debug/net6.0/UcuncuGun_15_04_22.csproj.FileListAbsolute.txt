@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\bin\Debug\net6.0\UcuncuGun_15_04_22.exe
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\bin\Debug\net6.0\UcuncuGun_15_04_22.deps.json
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\bin\Debug\net6.0\UcuncuGun_15_04_22.runtimeconfig.json
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\bin\Debug\net6.0\UcuncuGun_15_04_22.dll
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\bin\Debug\net6.0\UcuncuGun_15_04_22.pdb
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.AssemblyInfo.cs
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.dll
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\refint\UcuncuGun_15_04_22.dll
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.pdb
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\UcuncuGun_15_04_22.genruntimeconfig.cache
+C:\Users\USER\source\repos\UcuncuGun_15_04_22\UcuncuGun_15_04_22\obj\Debug\net6.0\ref\UcuncuGun_15_04_22.dll

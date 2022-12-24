@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WhileDongusu_28_04_22/1.0.0": {
+        "runtime": {
+          "WhileDongusu_28_04_22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhileDongusu_28_04_22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

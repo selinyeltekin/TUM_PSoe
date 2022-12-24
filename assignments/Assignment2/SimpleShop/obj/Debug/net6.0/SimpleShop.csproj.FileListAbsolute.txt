@@ -1,0 +1,45 @@
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.exe
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.deps.json
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.runtimeconfig.json
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.dll
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.pdb
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.csproj.AssemblyReference.cache
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.AssemblyInfoInputs.cache
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.AssemblyInfo.cs
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.csproj.CoreCompileInputs.cache
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.dll
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\refint\SimpleShop.dll
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.pdb
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.genruntimeconfig.cache
+C:\Users\Hritik\Documents\ProSE\assignment-2\SimpleShop\obj\Debug\net6.0\ref\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.exe
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.deps.json
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.runtimeconfig.json
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\bin\Debug\net6.0\SimpleShop.pdb
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.csproj.AssemblyReference.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.AssemblyInfoInputs.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.AssemblyInfo.cs
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.csproj.CoreCompileInputs.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\refint\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.pdb
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\SimpleShop.genruntimeconfig.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\ProSE_GitLab\assignment-2\SimpleShop\obj\Debug\net6.0\ref\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\bin\Debug\net6.0\SimpleShop.exe
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\bin\Debug\net6.0\SimpleShop.deps.json
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\bin\Debug\net6.0\SimpleShop.runtimeconfig.json
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\bin\Debug\net6.0\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\bin\Debug\net6.0\SimpleShop.pdb
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.csproj.AssemblyReference.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.AssemblyInfoInputs.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.AssemblyInfo.cs
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.csproj.CoreCompileInputs.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\refint\SimpleShop.dll
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.pdb
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\SimpleShop.genruntimeconfig.cache
+D:\WIP\00_Akademic_TUM_ITBE\1. Semester\Professional Software Engineering\Lecture 4\Assignment2\SimpleShop\obj\Debug\net6.0\ref\SimpleShop.dll

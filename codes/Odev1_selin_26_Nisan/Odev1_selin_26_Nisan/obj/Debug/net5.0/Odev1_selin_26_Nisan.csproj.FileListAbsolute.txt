@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\bin\Debug\net5.0\Odev1_selin_26_Nisan.exe
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\bin\Debug\net5.0\Odev1_selin_26_Nisan.deps.json
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\bin\Debug\net5.0\Odev1_selin_26_Nisan.runtimeconfig.json
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\bin\Debug\net5.0\Odev1_selin_26_Nisan.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\bin\Debug\net5.0\Odev1_selin_26_Nisan.dll
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\bin\Debug\net5.0\Odev1_selin_26_Nisan.pdb
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.AssemblyInfo.cs
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.dll
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\refint\Odev1_selin_26_Nisan.dll
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.pdb
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\Odev1_selin_26_Nisan.genruntimeconfig.cache
+C:\Users\USER\source\repos\Odev1_selin_26_Nisan\Odev1_selin_26_Nisan\obj\Debug\net5.0\ref\Odev1_selin_26_Nisan.dll

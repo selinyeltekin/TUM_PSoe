@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\bin\Debug\net5.0\Ex2_ComplexNumbers.exe
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\bin\Debug\net5.0\Ex2_ComplexNumbers.deps.json
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\bin\Debug\net5.0\Ex2_ComplexNumbers.runtimeconfig.json
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\bin\Debug\net5.0\Ex2_ComplexNumbers.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\bin\Debug\net5.0\Ex2_ComplexNumbers.dll
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\bin\Debug\net5.0\Ex2_ComplexNumbers.pdb
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.AssemblyInfo.cs
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.dll
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\refint\Ex2_ComplexNumbers.dll
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.pdb
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\Ex2_ComplexNumbers.genruntimeconfig.cache
+C:\Users\USER\source\repos\Ex2_ComplexNumbers\Ex2_ComplexNumbers\obj\Debug\net5.0\ref\Ex2_ComplexNumbers.dll

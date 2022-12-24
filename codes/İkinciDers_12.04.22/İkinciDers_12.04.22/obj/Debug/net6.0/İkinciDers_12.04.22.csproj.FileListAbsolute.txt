@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\bin\Debug\net6.0\İkinciDers_12.04.22.exe
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\bin\Debug\net6.0\İkinciDers_12.04.22.deps.json
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\bin\Debug\net6.0\İkinciDers_12.04.22.runtimeconfig.json
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\bin\Debug\net6.0\İkinciDers_12.04.22.dll
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\bin\Debug\net6.0\İkinciDers_12.04.22.pdb
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.AssemblyInfo.cs
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.dll
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\refint\İkinciDers_12.04.22.dll
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.pdb
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\İkinciDers_12.04.22.genruntimeconfig.cache
+C:\Users\USER\source\repos\İkinciDers_12.04.22\İkinciDers_12.04.22\obj\Debug\net6.0\ref\İkinciDers_12.04.22.dll
