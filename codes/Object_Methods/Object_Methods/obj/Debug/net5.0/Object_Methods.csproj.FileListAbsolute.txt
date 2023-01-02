@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\bin\Debug\net5.0\Object_Methods.exe
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\bin\Debug\net5.0\Object_Methods.deps.json
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\bin\Debug\net5.0\Object_Methods.runtimeconfig.json
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\bin\Debug\net5.0\Object_Methods.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\bin\Debug\net5.0\Object_Methods.dll
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\bin\Debug\net5.0\Object_Methods.pdb
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.AssemblyInfo.cs
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.dll
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\refint\Object_Methods.dll
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.pdb
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\Object_Methods.genruntimeconfig.cache
+C:\Users\USER\source\repos\Object_Methods\Object_Methods\obj\Debug\net5.0\ref\Object_Methods.dll

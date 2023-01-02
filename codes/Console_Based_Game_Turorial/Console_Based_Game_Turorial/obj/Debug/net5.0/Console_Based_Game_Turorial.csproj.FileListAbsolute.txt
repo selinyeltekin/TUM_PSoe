@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\bin\Debug\net5.0\Console_Based_Game_Turorial.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\bin\Debug\net5.0\Console_Based_Game_Turorial.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\bin\Debug\net5.0\Console_Based_Game_Turorial.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\bin\Debug\net5.0\Console_Based_Game_Turorial.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\bin\Debug\net5.0\Console_Based_Game_Turorial.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\bin\Debug\net5.0\Console_Based_Game_Turorial.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\refint\Console_Based_Game_Turorial.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\Console_Based_Game_Turorial.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Console_Based_Game_Turorial\Console_Based_Game_Turorial\obj\Debug\net5.0\ref\Console_Based_Game_Turorial.dll

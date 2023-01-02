@@ -4,15 +4,25 @@ namespace Ex2_ComplexNumbers
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            //these are two objects, creating
+            Console.WriteLine("Enter a complex number: ");
+            var x = Console.ReadLine();
 
-            Book book1 = new Book("Harry Potter", "Jk Rowling", 400); //calligng the constructer method
+            ComplexNumbers c;   //Creating a new complex number
 
-            Book book2 = new Book("Lord of the Rings", "Tolkein", 500);
+            bool works = ComplexNumbers.TryParseComplex(x, out c);
 
-            Console.WriteLine(book1.title, book1.author);
+            if (works)   //checks if parsing worked or not
+            {
+                Console.WriteLine("Parsed successfully.");
+            }
+            else
+            {
+                Console.WriteLine("Parsing failed. Invalid complex number.");
+            }
+
+            Console.WriteLine("Norm: " + c.GetNorm());
 
             //Wait before closing
             Console.ReadKey();

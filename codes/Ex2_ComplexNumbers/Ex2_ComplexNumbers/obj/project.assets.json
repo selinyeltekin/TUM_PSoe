@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\codes\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers.csproj",
       "projectName": "Ex2_ComplexNumbers",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\codes\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\codes\\Ex2_ComplexNumbers\\Ex2_ComplexNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
