@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PassBeyValue_Ex2/1.0.0": {
+        "runtime": {
+          "PassBeyValue_Ex2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PassBeyValue_Ex2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

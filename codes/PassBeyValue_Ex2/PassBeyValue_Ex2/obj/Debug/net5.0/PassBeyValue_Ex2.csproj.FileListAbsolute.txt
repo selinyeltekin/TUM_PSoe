@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\bin\Debug\net5.0\PassBeyValue_Ex2.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\bin\Debug\net5.0\PassBeyValue_Ex2.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\bin\Debug\net5.0\PassBeyValue_Ex2.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\bin\Debug\net5.0\PassBeyValue_Ex2.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\bin\Debug\net5.0\PassBeyValue_Ex2.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\bin\Debug\net5.0\PassBeyValue_Ex2.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\refint\PassBeyValue_Ex2.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\PassBeyValue_Ex2.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\PassBeyValue_Ex2\PassBeyValue_Ex2\obj\Debug\net5.0\ref\PassBeyValue_Ex2.dll

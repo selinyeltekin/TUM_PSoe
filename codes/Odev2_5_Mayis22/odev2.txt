@@ -1,0 +1,7 @@
+﻿'Odev2_5_Mayis22.exe' (CoreCLR: DefaultDomain): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\System.Private.CoreLib.dll' yüklendi. Sembollerin yüklemesi atlandı. Modül iyileştirildi ve hata ayıklayıcının 'Yalnızca Kendi Kodum' seçeneği etkin hale getirildi.
+'Odev2_5_Mayis22.exe' (CoreCLR: clrhost): 'C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\bin\Debug\net5.0\Odev2_5_Mayis22.dll' yüklendi. Semboller yüklendi.
+'Odev2_5_Mayis22.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\System.Runtime.dll' yüklendi. Sembollerin yüklemesi atlandı. Modül iyileştirildi ve hata ayıklayıcının 'Yalnızca Kendi Kodum' seçeneği etkin hale getirildi.
+'Odev2_5_Mayis22.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\System.Console.dll' yüklendi. Sembollerin yüklemesi atlandı. Modül iyileştirildi ve hata ayıklayıcının 'Yalnızca Kendi Kodum' seçeneği etkin hale getirildi.
+'Odev2_5_Mayis22.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\System.Threading.dll' yüklendi. Sembollerin yüklemesi atlandı. Modül iyileştirildi ve hata ayıklayıcının 'Yalnızca Kendi Kodum' seçeneği etkin hale getirildi.
+'Odev2_5_Mayis22.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\System.Text.Encoding.Extensions.dll' yüklendi. Sembollerin yüklemesi atlandı. Modül iyileştirildi ve hata ayıklayıcının 'Yalnızca Kendi Kodum' seçeneği etkin hale getirildi.
+'[764] Odev2_5_Mayis22.exe' programı 0 (0x0) koduyla çıktı.

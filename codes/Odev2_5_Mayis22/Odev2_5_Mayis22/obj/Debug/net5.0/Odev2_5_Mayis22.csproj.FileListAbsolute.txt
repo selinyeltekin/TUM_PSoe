@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\bin\Debug\net5.0\Odev2_5_Mayis22.exe
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\bin\Debug\net5.0\Odev2_5_Mayis22.deps.json
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\bin\Debug\net5.0\Odev2_5_Mayis22.runtimeconfig.json
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\bin\Debug\net5.0\Odev2_5_Mayis22.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\bin\Debug\net5.0\Odev2_5_Mayis22.dll
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\bin\Debug\net5.0\Odev2_5_Mayis22.pdb
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.AssemblyInfo.cs
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.dll
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\refint\Odev2_5_Mayis22.dll
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.pdb
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\Odev2_5_Mayis22.genruntimeconfig.cache
+C:\Users\USER\source\repos\Odev2_5_Mayis22\Odev2_5_Mayis22\obj\Debug\net5.0\ref\Odev2_5_Mayis22.dll

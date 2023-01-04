@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YoutubeEx/1.0.0": {
+        "runtime": {
+          "YoutubeEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YoutubeEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

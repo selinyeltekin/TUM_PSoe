@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "First_Class_PSE/1.0.0": {
+        "runtime": {
+          "First_Class_PSE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First_Class_PSE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

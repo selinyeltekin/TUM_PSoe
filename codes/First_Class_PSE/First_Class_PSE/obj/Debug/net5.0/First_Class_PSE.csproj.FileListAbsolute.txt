@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\bin\Debug\net5.0\First_Class_PSE.exe
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\bin\Debug\net5.0\First_Class_PSE.deps.json
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\bin\Debug\net5.0\First_Class_PSE.runtimeconfig.json
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\bin\Debug\net5.0\First_Class_PSE.runtimeconfig.dev.json
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\bin\Debug\net5.0\First_Class_PSE.dll
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\bin\Debug\net5.0\First_Class_PSE.pdb
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.AssemblyInfo.cs
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.dll
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\refint\First_Class_PSE.dll
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.pdb
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\First_Class_PSE.genruntimeconfig.cache
+C:\Users\USER\source\repos\First_Class_PSE\First_Class_PSE\obj\Debug\net5.0\ref\First_Class_PSE.dll

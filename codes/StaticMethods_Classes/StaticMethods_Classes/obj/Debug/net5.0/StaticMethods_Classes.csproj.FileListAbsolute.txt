@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\bin\Debug\net5.0\StaticMethods_Classes.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\bin\Debug\net5.0\StaticMethods_Classes.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\bin\Debug\net5.0\StaticMethods_Classes.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\bin\Debug\net5.0\StaticMethods_Classes.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\bin\Debug\net5.0\StaticMethods_Classes.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\bin\Debug\net5.0\StaticMethods_Classes.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\refint\StaticMethods_Classes.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\StaticMethods_Classes.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\StaticMethods_Classes\StaticMethods_Classes\obj\Debug\net5.0\ref\StaticMethods_Classes.dll

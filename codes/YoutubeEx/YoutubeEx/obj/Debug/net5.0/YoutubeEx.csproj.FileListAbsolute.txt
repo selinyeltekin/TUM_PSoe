@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\bin\Debug\net5.0\YoutubeEx.exe
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\bin\Debug\net5.0\YoutubeEx.deps.json
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\bin\Debug\net5.0\YoutubeEx.runtimeconfig.json
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\bin\Debug\net5.0\YoutubeEx.runtimeconfig.dev.json
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\bin\Debug\net5.0\YoutubeEx.dll
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\bin\Debug\net5.0\YoutubeEx.pdb
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.AssemblyInfo.cs
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.dll
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\refint\YoutubeEx.dll
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.pdb
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\YoutubeEx.genruntimeconfig.cache
+C:\Users\USER\source\repos\YoutubeEx\YoutubeEx\obj\Debug\net5.0\ref\YoutubeEx.dll

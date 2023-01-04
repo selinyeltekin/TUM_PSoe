@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "İkinciDers_12.04.22/1.0.0": {
+        "runtime": {
+          "İkinciDers_12.04.22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "İkinciDers_12.04.22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

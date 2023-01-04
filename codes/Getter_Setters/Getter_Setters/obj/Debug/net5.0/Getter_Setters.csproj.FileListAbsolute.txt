@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\bin\Debug\net5.0\Getter_Setters.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\bin\Debug\net5.0\Getter_Setters.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\bin\Debug\net5.0\Getter_Setters.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\bin\Debug\net5.0\Getter_Setters.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\bin\Debug\net5.0\Getter_Setters.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\bin\Debug\net5.0\Getter_Setters.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\refint\Getter_Setters.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\Getter_Setters.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Getter_Setters\Getter_Setters\obj\Debug\net5.0\ref\Getter_Setters.dll

@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\bin\Debug\net5.0\Static_Class_Attributes.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\bin\Debug\net5.0\Static_Class_Attributes.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\bin\Debug\net5.0\Static_Class_Attributes.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\bin\Debug\net5.0\Static_Class_Attributes.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\bin\Debug\net5.0\Static_Class_Attributes.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\bin\Debug\net5.0\Static_Class_Attributes.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\refint\Static_Class_Attributes.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\Static_Class_Attributes.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Static_Class_Attributes\Static_Class_Attributes\obj\Debug\net5.0\ref\Static_Class_Attributes.dll

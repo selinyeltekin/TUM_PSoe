@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\bin\Debug\net5.0\Inheritance_Youtube.exe
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\bin\Debug\net5.0\Inheritance_Youtube.deps.json
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\bin\Debug\net5.0\Inheritance_Youtube.runtimeconfig.json
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\bin\Debug\net5.0\Inheritance_Youtube.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\bin\Debug\net5.0\Inheritance_Youtube.dll
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\bin\Debug\net5.0\Inheritance_Youtube.pdb
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.AssemblyInfo.cs
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.dll
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\refint\Inheritance_Youtube.dll
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.pdb
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\Inheritance_Youtube.genruntimeconfig.cache
+C:\Users\USER\source\repos\Inheritance_Youtube\Inheritance_Youtube\obj\Debug\net5.0\ref\Inheritance_Youtube.dll

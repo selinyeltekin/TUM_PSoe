@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\bin\Debug\net5.0\Assignment1_Ben.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\bin\Debug\net5.0\Assignment1_Ben.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\bin\Debug\net5.0\Assignment1_Ben.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\bin\Debug\net5.0\Assignment1_Ben.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\bin\Debug\net5.0\Assignment1_Ben.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\bin\Debug\net5.0\Assignment1_Ben.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\refint\Assignment1_Ben.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\Assignment1_Ben.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Assignment1_Ben\Assignment1_Ben\obj\Debug\net5.0\ref\Assignment1_Ben.dll

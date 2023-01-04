@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Factorial_Ex2/1.0.0": {
+        "runtime": {
+          "Factorial_Ex2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factorial_Ex2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.AssemblyInfo.cs
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Giraffee\Giraffee\bin\Debug\net5.0\Giraffee.exe
+C:\Users\USER\source\repos\Giraffee\Giraffee\bin\Debug\net5.0\Giraffee.deps.json
+C:\Users\USER\source\repos\Giraffee\Giraffee\bin\Debug\net5.0\Giraffee.runtimeconfig.json
+C:\Users\USER\source\repos\Giraffee\Giraffee\bin\Debug\net5.0\Giraffee.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Giraffee\Giraffee\bin\Debug\net5.0\Giraffee.dll
+C:\Users\USER\source\repos\Giraffee\Giraffee\bin\Debug\net5.0\Giraffee.pdb
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.dll
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\refint\Giraffee.dll
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.pdb
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\Giraffee.genruntimeconfig.cache
+C:\Users\USER\source\repos\Giraffee\Giraffee\obj\Debug\net5.0\ref\Giraffee.dll
