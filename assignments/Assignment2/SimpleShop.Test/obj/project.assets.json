@@ -3984,19 +3984,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\koray\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WIP\\00_Akademic_TUM_ITBE\\1. Semester\\Professional Software Engineering\\Lecture 4\\Assignment2\\SimpleShop.Test\\SimpleShop.Test.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\assignments\\Assignment2\\SimpleShop.Test\\SimpleShop.Test.csproj",
       "projectName": "SimpleShop.Test",
-      "projectPath": "D:\\WIP\\00_Akademic_TUM_ITBE\\1. Semester\\Professional Software Engineering\\Lecture 4\\Assignment2\\SimpleShop.Test\\SimpleShop.Test.csproj",
-      "packagesPath": "C:\\Users\\koray\\.nuget\\packages\\",
-      "outputPath": "D:\\WIP\\00_Akademic_TUM_ITBE\\1. Semester\\Professional Software Engineering\\Lecture 4\\Assignment2\\SimpleShop.Test\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\assignments\\Assignment2\\SimpleShop.Test\\SimpleShop.Test.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\assignments\\Assignment2\\SimpleShop.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\koray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4010,8 +4010,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\WIP\\00_Akademic_TUM_ITBE\\1. Semester\\Professional Software Engineering\\Lecture 4\\Assignment2\\SimpleShop\\SimpleShop.csproj": {
-              "projectPath": "D:\\WIP\\00_Akademic_TUM_ITBE\\1. Semester\\Professional Software Engineering\\Lecture 4\\Assignment2\\SimpleShop\\SimpleShop.csproj"
+            "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\assignments\\Assignment2\\SimpleShop\\SimpleShop.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\assignments\\Assignment2\\SimpleShop\\SimpleShop.csproj"
             }
           }
         }
