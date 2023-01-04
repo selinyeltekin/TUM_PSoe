@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\bin\Debug\net5.0\Ex3_Ex2_Interfaces.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\bin\Debug\net5.0\Ex3_Ex2_Interfaces.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\bin\Debug\net5.0\Ex3_Ex2_Interfaces.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\bin\Debug\net5.0\Ex3_Ex2_Interfaces.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\bin\Debug\net5.0\Ex3_Ex2_Interfaces.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\bin\Debug\net5.0\Ex3_Ex2_Interfaces.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\refint\Ex3_Ex2_Interfaces.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\Ex3_Ex2_Interfaces.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\codes\Ex3_Ex2_Interfaces\Ex3_Ex2_Interfaces\obj\Debug\net5.0\ref\Ex3_Ex2_Interfaces.dll

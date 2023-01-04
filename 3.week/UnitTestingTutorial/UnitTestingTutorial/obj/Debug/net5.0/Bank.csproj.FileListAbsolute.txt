@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\bin\Debug\net5.0\Bank.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\bin\Debug\net5.0\Bank.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\bin\Debug\net5.0\Bank.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\bin\Debug\net5.0\Bank.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\refint\Bank.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\UnitTestingTutorial\UnitTestingTutorial\obj\Debug\net5.0\ref\Bank.dll
