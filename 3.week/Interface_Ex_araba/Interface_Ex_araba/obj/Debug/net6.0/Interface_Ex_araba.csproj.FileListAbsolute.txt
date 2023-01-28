@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\bin\Debug\net6.0\Interface_Ex_araba.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\bin\Debug\net6.0\Interface_Ex_araba.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\bin\Debug\net6.0\Interface_Ex_araba.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\bin\Debug\net6.0\Interface_Ex_araba.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\bin\Debug\net6.0\Interface_Ex_araba.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\refint\Interface_Ex_araba.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\Interface_Ex_araba.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ex_araba\Interface_Ex_araba\obj\Debug\net6.0\ref\Interface_Ex_araba.dll

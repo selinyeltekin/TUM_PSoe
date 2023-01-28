@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\bin\Debug\net5.0\GenericsYoutubeEx.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\bin\Debug\net5.0\GenericsYoutubeEx.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\bin\Debug\net5.0\GenericsYoutubeEx.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\bin\Debug\net5.0\GenericsYoutubeEx.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\bin\Debug\net5.0\GenericsYoutubeEx.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\bin\Debug\net5.0\GenericsYoutubeEx.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\refint\GenericsYoutubeEx.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\GenericsYoutubeEx.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\GenericsYoutubeEx\GenericsYoutubeEx\obj\Debug\net5.0\ref\GenericsYoutubeEx.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LsEweATDfzjoloD0HLQk9LojRm9ILGD3SwBm/Zqiow+iC+gAZK11HuiukdXxEdo+1gxotvbMRhv0nsbHYaeXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\ITBE\\TUM_PSoe\\assignments\\Assignment5\\Assignment_5\\Assignment_5\\Assignment_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

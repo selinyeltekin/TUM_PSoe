@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\bin\Debug\net5.0\Delegate_Youtube_Ex.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\bin\Debug\net5.0\Delegate_Youtube_Ex.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\bin\Debug\net5.0\Delegate_Youtube_Ex.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\bin\Debug\net5.0\Delegate_Youtube_Ex.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\bin\Debug\net5.0\Delegate_Youtube_Ex.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\bin\Debug\net5.0\Delegate_Youtube_Ex.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\refint\Delegate_Youtube_Ex.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\Delegate_Youtube_Ex.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\7.week\Delegate_Youtube_Ex\Delegate_Youtube_Ex\obj\Debug\net5.0\ref\Delegate_Youtube_Ex.dll

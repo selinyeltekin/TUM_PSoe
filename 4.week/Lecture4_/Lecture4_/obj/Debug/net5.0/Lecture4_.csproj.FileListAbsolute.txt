@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\bin\Debug\net5.0\Lecture4_.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\bin\Debug\net5.0\Lecture4_.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\bin\Debug\net5.0\Lecture4_.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\bin\Debug\net5.0\Lecture4_.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\bin\Debug\net5.0\Lecture4_.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\bin\Debug\net5.0\Lecture4_.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\refint\Lecture4_.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\Lecture4_.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Lecture4_\Lecture4_\obj\Debug\net5.0\ref\Lecture4_.dll

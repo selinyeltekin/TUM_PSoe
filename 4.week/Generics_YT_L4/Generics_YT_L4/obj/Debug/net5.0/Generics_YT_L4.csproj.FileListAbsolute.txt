@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\bin\Debug\net5.0\Generics_YT_L4.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\bin\Debug\net5.0\Generics_YT_L4.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\bin\Debug\net5.0\Generics_YT_L4.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\bin\Debug\net5.0\Generics_YT_L4.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\bin\Debug\net5.0\Generics_YT_L4.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\bin\Debug\net5.0\Generics_YT_L4.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\refint\Generics_YT_L4.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\Generics_YT_L4.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\4.week\Generics_YT_L4\Generics_YT_L4\obj\Debug\net5.0\ref\Generics_YT_L4.dll

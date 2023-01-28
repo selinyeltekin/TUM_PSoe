@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\bin\Debug\net5.0\Interface_Ornek.exe
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\bin\Debug\net5.0\Interface_Ornek.deps.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\bin\Debug\net5.0\Interface_Ornek.runtimeconfig.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\bin\Debug\net5.0\Interface_Ornek.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\bin\Debug\net5.0\Interface_Ornek.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\bin\Debug\net5.0\Interface_Ornek.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.AssemblyInfo.cs
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\refint\Interface_Ornek.dll
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.pdb
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\Interface_Ornek.genruntimeconfig.cache
+C:\Users\USER\Desktop\ITBE\TUM_PSoe\3.week\Interface_Ornek\Interface_Ornek\obj\Debug\net5.0\ref\Interface_Ornek.dll
